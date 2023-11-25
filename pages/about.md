@@ -27,7 +27,7 @@ credits: false #true
 
 
 ## About the Collection
-Hello, welcome to our website :joy:
+Hello, welcome to our website
 *I hope you like it*
 **Let me know if I should change anything**
 
