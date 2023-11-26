@@ -1,4 +1,32 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,demo_001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910-10-14,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
-coll002,download.jpg,,,Picture,"Qashoa, Randa; Qashoa, Nada",,Picture of everyone's favorite villain,"Ursula, Little Mermaid, Disney",,43.84353247,-79.61642469,The internet,,Image;StillImage,image/jpeg,eng,,
-coll003,The Little Mermaid - Poor Unfortunate Souls.mp3,,,Poor Unfortunate Souls,"Qashoa, Randa; Qashoa, Nada",,Audio of best disney song :),"Song, Disney",,,,The internet,,Sound,audio/mp3,eng,,
+objectid,filename,title,creator,date,description,subject,latitude,longitude,type,format
+coll001,McMichael2.mp3,The Growth & Development of the McMichael Art Collection,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,"In this podcast, we will be exploring the history of the McMichael Canadian Art Collection in Kleinburg, Ontario. The main topics discussed in this podcast include how the museum defines what is Canadian art, how this definition has changed over the years, and how this notion of nationality has affected the types of exhibits produced.",Podcast,43.84353247,-79.61642469,Sound,audio/mp3
+coll002,20231103_121453.jpg,McMichael Front Entrance ,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll003,IMG_9654.jpg,Entrance Interior,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll004,20231103_121703.jpg,Exhibit 1,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll005,IMG_9658.jpg,Exhibit 2,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll006,IMG_9660.jpg,Exhibit 3,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll007,IMG_9661.jpg,Exhibit 4,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll008,IMG_9662.jpg,Exhibit 5,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll009,IMG_9613.jpg,Exhibit 6,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll010,IMG_9670.jpg,Exhibit 7,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll011,IMG_9667.jpg,Exhibit 8,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Gallery Overview,,,Image;StillImage,image/jpeg
+coll012,20231103_122222.jpg,Totem Pole,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,Sacred Indigenous totem pole discussed in the podcast.,Indigenous Artifact,,,Image;StillImage,image/jpeg
+coll013,20231103_110352.jpg,Selected Painting 1,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll014,20231103_112329.jpg,Selected Painting 2,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll015,IMG_9589.jpg,Selected Painting 3,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll016,IMG_9611.jpg,Selected Painting 4,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll017,IMG_9592.jpg,Selected Painting 5,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll018,IMG_9586.jpg,Selected Painting 6,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll019,20231103_111334.jpg,Selected Painting 7,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll020,20231103_110156.jpg,Selected Painting 8,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll021,20231103_111216.jpg,Selected Painting 9,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll022,20231103_111626.jpg,Selected Painting 10,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Painting,,,Image;StillImage,image/jpeg
+coll023,20231103_114754.jpg,Outdoors 1,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-25,,Nature,,,Image;StillImage,image/jpeg
+coll024,20231103_114837.jpg,Outdoors 2,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-26,,Nature,,,Image;StillImage,image/jpeg
+coll025,20231103_115141.jpg,Outdoors 3,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-27,,Nature,,,Image;StillImage,image/jpeg
+coll026,20231103_115228(0).jpg,Outdoors 4,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-28,,Nature,,,Image;StillImage,image/jpeg
+coll027,20231103_120523.jpg,Outdoors 5,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-29,,Nature,,,Image;StillImage,image/jpeg
+coll028,IMG_9644.jpg,Outdoors 6,"Qashoa, Nada; Spagnuolo, Alessia",2023-11-30,,Nature,,,Image;StillImage,image/jpeg
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
