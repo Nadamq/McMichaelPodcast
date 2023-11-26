@@ -70,8 +70,4 @@ Litigation of the McMichael Canadian Art Collection Mandate." Art Antiquity & La
 **Music credits**:
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Leaves Rustling.” Created by JandreLombaard in Centurion, South Africa. Sourced from freesound.org. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org. 
-
-
-
-\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org.
