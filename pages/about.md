@@ -18,14 +18,9 @@ credits: false #true
 
 # <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 # {% include cb/about_the_about.md %} 
+# {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 ---
-
-{% include feature/jumbotron.html objectid=coll001 %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
-
-
+{% include feature/jumbotron.html objectid=coll002 %}
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
 \
