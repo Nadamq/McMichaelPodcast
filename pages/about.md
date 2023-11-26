@@ -28,7 +28,9 @@ credits: false #true
 
 ## About the Collection
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
-**By**:\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alessia Spagnuolo and Nada Qashoa\
+**By**:\ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alessia Spagnuolo and Nada Qashoa\
+\
 **Description**: 
 Have you ever wondered what it means to be a Canadian artist? Join us on this episode of Painting Progress, where we explore the McMichael Canadian Art Collection, an institution dedicated to the collection and curation of Canadian art. With the help of assistant curator John Geoghgan we will explore challenges of dealing with the "Canadian" definition and how the McMichael's approach to this topic has changed over time\
 **Acknowledgments**: 
