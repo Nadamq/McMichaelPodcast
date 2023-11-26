@@ -28,7 +28,7 @@ credits: false #true
 
 ## About the Collection
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
-**By**: Alessia Spagnuolo and Nada Qashoa\
+**By**:\ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alessia Spagnuolo and Nada Qashoa\
 **Description**: 
 Have you ever wondered what it means to be a Canadian artist? Join us on this episode of Painting Progress, where we explore the McMichael Canadian Art Collection, an institution dedicated to the collection and curation of Canadian art. With the help of assistant curator John Geoghgan we will explore challenges of dealing with the "Canadian" definition and how the McMichael's approach to this topic has changed over time\
 **Acknowledgments**: 
@@ -55,7 +55,7 @@ Smith, Siobhán N. “The Art of Exclusion: the Status of Aboriginal Art in the 
 Canadian Art Collection.” Aboriginal Canada Revisited. Ottawa: University of Ottawa Press, 2008. \
 **Music credits**:
 “Leaves Rustling.” Created by JandreLombaard in Centurion, South Africa. Sourced from freesound.org. \
-“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org. \
+“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org. 
 
 
 
