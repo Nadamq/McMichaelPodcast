@@ -66,6 +66,7 @@ Litigation of the McMichael Canadian Art Collection Mandate." Art Antiquity & La
 17, no. 1 (2012). Accessed October 4, 2023. https://link-gale-com.ezproxy.library.yorku.ca/apps/doc/A328656694/AONE?u=yorku_main&sid=bookmark-AONE&xid=0fdc11da. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smith, Siobhán N. “The Art of Exclusion: the Status of Aboriginal Art in the McMichael 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canadian Art Collection.” Aboriginal Canada Revisited. Ottawa: University of Ottawa Press, 2008. \
+\
 **Music credits**:
 \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Leaves Rustling.” Created by JandreLombaard in Centurion, South Africa. Sourced from freesound.org. \
