@@ -28,38 +28,47 @@ credits: false #true
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
-**By**: \ 
+**By**: 
+\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alessia Spagnuolo and Nada Qashoa\
 \
-**Description**: \ 
+**Description**: 
+\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have you ever wondered what it means to be a Canadian artist? Join us on this episode of Painting Progress, where we explore the McMichael Canadian Art Collection, an institution dedicated to the collection and curation of Canadian art. With the help of assistant curator John Geoghgan we will explore challenges of dealing with the "Canadian" definition and how the McMichael's approach to this topic has changed over time\
 \
-**Acknowledgments**: \
+**Acknowledgments**: 
+\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We would like to thank John Geoghegan for participating in this podcasting and sharing his knowledge with us. \
 \
 **Hosts**: 
-Alessia Spagnuolo\
-Nada Qashoa\
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alessia Spagnuolo\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nada Qashoa\
+\
 **Guest**:
+\
 John Geoghegan\
+\
 **References**: 
-Dickenson, Victoria. "IVAN EYRE at the McMichael Sculpture Garden." Queen's Quarterly, 
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dickenson, Victoria. "IVAN EYRE at the McMichael Sculpture Garden." Queen's Quarterly, 
 2011: 431-443. Accessed October 3, 2023. https://ezproxy.library.yorku.ca/login?url=https://www.proquest.com/magazines/ivan-eyre-at-mcmichael-sculpture-garden/docview/904985410/se-2.\
-Kritzwiser, Kay. “A Collection Moves Beyond its Group of Seven Image.” Globe 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kritzwiser, Kay. “A Collection Moves Beyond its Group of Seven Image.” Globe 
 and Mail (Toronto, ON), Aug. 22, 1970. 
 https://www.proquest.com/docview/1314047862/3913EC5CD36A4D4APQ/2?accountid=15182&parentSessionId=bsz3RK4FTtOwMjW5OrGd4DI2BR40QMTH0vZJ9u9Hq%2BM%3D. \
-Kritzwiser, Kay. “Gathering at Kleinburg: McMichael Collection is Officially Open.” Globe 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kritzwiser, Kay. “Gathering at Kleinburg: McMichael Collection is Officially Open.” Globe 
 and Mail (Toronto, ON), July. 9, 1966. https://www.proquest.com/docview/1270599492/3913EC5CD36A4D4APQ/1?accountid=15182. \
-“Our History.” McMichael. McMichael Canadian Art Collection, 2021. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Our History.” McMichael. McMichael Canadian Art Collection, 2021. 
 https://mcmichael.com/about/history/ \
-Sidey, Pamela. "Paintings, Politics and the 'True North Strong and Free': the Legislation and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sidey, Pamela. "Paintings, Politics and the 'True North Strong and Free': the Legislation and 
 Litigation of the McMichael Canadian Art Collection Mandate." Art Antiquity & Law 
 17, no. 1 (2012). Accessed October 4, 2023. https://link-gale-com.ezproxy.library.yorku.ca/apps/doc/A328656694/AONE?u=yorku_main&sid=bookmark-AONE&xid=0fdc11da. \
-Smith, Siobhán N. “The Art of Exclusion: the Status of Aboriginal Art in the McMichael 
-Canadian Art Collection.” Aboriginal Canada Revisited. Ottawa: University of Ottawa Press, 2008. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Smith, Siobhán N. “The Art of Exclusion: the Status of Aboriginal Art in the McMichael 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canadian Art Collection.” Aboriginal Canada Revisited. Ottawa: University of Ottawa Press, 2008. \
 **Music credits**:
-“Leaves Rustling.” Created by JandreLombaard in Centurion, South Africa. Sourced from freesound.org. \
-“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org. 
+\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Leaves Rustling.” Created by JandreLombaard in Centurion, South Africa. Sourced from freesound.org. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Wet Weather” Created by SergeQuadrado. Sourced from freesound.org. 
 
 
 
