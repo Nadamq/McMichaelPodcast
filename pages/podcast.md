@@ -23,7 +23,43 @@ credits: false #true
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 
-{% include cb/about_the_about.md %} 
+# Podcast #1 
+{% include feature/audio.html objectid=coll001 %}
+
+## McMichael Gallery Overview
+### Gallery Entrance
+{% include feature/audio.html objectid=coll002 %}
+### Entrance Interior
+{% include feature/audio.html objectid=coll003 %}
+### General Exhibit Overview
+{% include feature/audio.html objectid=coll004 %}
+{% include feature/audio.html objectid=coll005 %}
+{% include feature/audio.html objectid=coll006 %}
+{% include feature/audio.html objectid=coll007 %}
+{% include feature/audio.html objectid=coll008 %}
+{% include feature/audio.html objectid=coll009 %}
+{% include feature/audio.html objectid=coll010 %}
+{% include feature/audio.html objectid=coll011 %}
+## Indigenous Artificat Discussed in Podcast
+{% include feature/audio.html objectid=coll012 %}
+## A Selection of Paintings
+{% include feature/audio.html objectid=coll013 %}
+{% include feature/audio.html objectid=coll014 %}
+{% include feature/audio.html objectid=coll015 %}
+{% include feature/audio.html objectid=coll016 %}
+{% include feature/audio.html objectid=coll017 %}
+{% include feature/audio.html objectid=coll018 %}
+{% include feature/audio.html objectid=coll019 %}
+{% include feature/audio.html objectid=coll020 %}
+{% include feature/audio.html objectid=coll021 %}
+{% include feature/audio.html objectid=coll022 %}
+## Nature Right Outside the Gallery
+{% include feature/audio.html objectid=coll023 %}
+{% include feature/audio.html objectid=coll024 %}
+{% include feature/audio.html objectid=coll025 %}
+{% include feature/audio.html objectid=coll026 %}
+{% include feature/audio.html objectid=coll027 %}
+{% include feature/audio.html objectid=coll028 %}
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
