@@ -28,7 +28,7 @@ credits: false #true
 
 ## McMichael Gallery Overview
 ### Gallery Entrance
-{% include feature/image.html objectid=coll002 %}
+{% include feature/image.html objectid=coll002 width="75" %}
 ### Entrance Interior
 {% include feature/image.html objectid=coll003 %}
 ### General Exhibit Overview
