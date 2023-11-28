@@ -58,7 +58,7 @@ credits: false #true
 
 ## McMichael Gallery Overview
 ### Gallery Entrance
-{% include feature/image.html objectid=coll002 width="75" %}
+{% include feature/image.html objectid=coll002 width="25" %}
 ### Entrance Interior
 {% include feature/card.html objectid=coll003 header="This is a Card" text="The card features an image from the collection as a cap" %}
 
