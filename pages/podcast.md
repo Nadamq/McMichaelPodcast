@@ -20,6 +20,36 @@ credits: false #true
 # {% include cb/about_the_about.md %} 
 # {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 # 
+### General Exhibit Overview
+#{% include feature/image.html objectid=coll004 %}
+#{% include feature/image.html objectid=coll005 %}
+#{% include feature/image.html objectid=coll006 %}
+#{% include feature/image.html objectid=coll007 %}
+#{% include feature/image.html objectid=coll008 %}
+#{% include feature/image.html objectid=coll009 %}
+#{% include feature/image.html objectid=coll010 %}
+#{% include feature/image.html objectid=coll011 %}
+## Indigenous Artificat Discussed in Podcast
+#{% include feature/image.html objectid=coll012 %}
+## A Selection of Paintings
+#{% include feature/image.html objectid=coll013 %}
+#{% include feature/image.html objectid=coll014 %}
+#{% include feature/image.html objectid=coll015 %}
+#{% include feature/image.html objectid=coll016 %}
+#{% include feature/image.html objectid=coll017 %}#
+#{% include feature/image.html objectid=coll018 %}
+#{% include feature/image.html objectid=coll017 %}#
+#{% include feature/image.html objectid=coll019 %}
+#{% include feature/image.html objectid=coll020 %}
+#{% include feature/image.html objectid=coll021 %}
+#{% include feature/image.html objectid=coll022 %}
+## Nature Right Outside the Gallery
+#{% include feature/image.html objectid=coll023 %}
+#{% include feature/image.html objectid=coll024 %}
+#{% include feature/image.html objectid=coll025 %}
+#{% include feature/image.html objectid=coll026 %}
+#{% include feature/image.html objectid=coll027 %}
+#{% include feature/image.html objectid=coll028 %}
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 
@@ -31,35 +61,7 @@ credits: false #true
 {% include feature/image.html objectid=coll002 width="75" %}
 ### Entrance Interior
 {% include feature/image.html objectid=coll003 %}
-### General Exhibit Overview
-{% include feature/image.html objectid=coll004 %}
-{% include feature/image.html objectid=coll005 %}
-{% include feature/image.html objectid=coll006 %}
-{% include feature/image.html objectid=coll007 %}
-{% include feature/image.html objectid=coll008 %}
-{% include feature/image.html objectid=coll009 %}
-{% include feature/image.html objectid=coll010 %}
-{% include feature/image.html objectid=coll011 %}
-## Indigenous Artificat Discussed in Podcast
-{% include feature/image.html objectid=coll012 %}
-## A Selection of Paintings
-{% include feature/image.html objectid=coll013 %}
-{% include feature/image.html objectid=coll014 %}
-{% include feature/image.html objectid=coll015 %}
-{% include feature/image.html objectid=coll016 %}
-{% include feature/image.html objectid=coll017 %}
-{% include feature/image.html objectid=coll018 %}
-{% include feature/image.html objectid=coll019 %}
-{% include feature/image.html objectid=coll020 %}
-{% include feature/image.html objectid=coll021 %}
-{% include feature/image.html objectid=coll022 %}
-## Nature Right Outside the Gallery
-{% include feature/image.html objectid=coll023 %}
-{% include feature/image.html objectid=coll024 %}
-{% include feature/image.html objectid=coll025 %}
-{% include feature/image.html objectid=coll026 %}
-{% include feature/image.html objectid=coll027 %}
-{% include feature/image.html objectid=coll028 %}
+
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
