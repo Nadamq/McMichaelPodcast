@@ -55,15 +55,11 @@ credits: false #true
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 
-# Podcast #1 
+# Podcast #1: McMichael Canadian Art Collection
 {% include feature/audio.html objectid=coll001 %}
 
-## McMichael Gallery Overview
-### Gallery Entrance
-{% include feature/image.html objectid="20231103_121453.jpg" width="25"%}
-### Entrance Interior
-
-### General Exhibit Overview
+## Tortem Pole Featured in Podcast
+{% include feature/image.html objectid="20231103_122222.jpg"%}
 
 
 ## About our podcast
