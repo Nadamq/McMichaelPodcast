@@ -60,7 +60,7 @@ credits: false #true
 
 ## McMichael Gallery Overview
 ### Gallery Entrance
-{% include feature/image.html objectid="20231103_121453" width="25"%}
+{% include feature/image.html objectid="20231103_121453.jpg" width="25"%}
 ### Entrance Interior
 
 ### General Exhibit Overview
