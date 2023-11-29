@@ -52,6 +52,12 @@ credits: false #true
 #{% include feature/image.html objectid="coll003" header="This is a Card" text="The card features an image from the collection as a cap" %}
 ##{% include feature/image.html objectid="20231103_121703;IMG_9658;IMG_9660;IMG_9661;IMG_9662;IMG_9613;IMG_9670;IMG_9667" %}
 #{% include feature/image.html objectid="IMG_9654" width="25" height ="25"%}
+#{% include feature/image.html objectid="20231103_122222.jpg" %}
+#{% include feature/image.html objectid="20231103_122222" %}
+#{% include feature/image.html objectid=20231103_122222 %}
+#{% include feature/image.html objectid=20231103_122222.jpg %}
+#{% include feature/image.html objectid=coll0012 %}
+#{% include feature/image.html objectid="coll0012" %}
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 
@@ -59,12 +65,8 @@ credits: false #true
 {% include feature/audio.html objectid=coll001 %}
 
 ## Totem Pole Featured in Podcast
-{% include feature/image.html objectid="20231103_122222.jpg" %}
-{% include feature/image.html objectid="20231103_122222" %}
-{% include feature/image.html objectid=20231103_122222 %}
-{% include feature/image.html objectid=20231103_122222.jpg %}
-{% include feature/image.html objectid=coll0012 %}
-{% include feature/image.html objectid="coll0012" %}
+{% include feature/image.html objectid="https://nadamq.github.io/painting-progress/objects/20231103_122222.jpg" width="75" alt="Totem Pole" %}
+
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
