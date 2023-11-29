@@ -23,4 +23,4 @@ credits: false #true
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 ## About our podcast
-Welcome to Painting Progress, where we examine the turbulent history of the representation of Canadian art and its evolution in mirroring a comprehensive view of Canadian society. The goal of our podcast is to shed some light into the history of Canadian art and its ever changing definition through the lens of existing art galleries and museums.
+Welcome to Painting Progress, where we share a series of podcasts delving into Canadian art and history. The goal of our podcast is to shed some light into the history of Canadian art and its ever growing scope through the lens of existing art galleries and museums.
