@@ -59,8 +59,12 @@ credits: false #true
 {% include feature/audio.html objectid=coll001 %}
 
 ## Tortem Pole Featured in Podcast
-{% include feature/image.html objectid="20231103_122222.jpg"%}
-
+{% include feature/image.html objectid="20231103_122222.jpg" %}
+{% include feature/image.html objectid="20231103_122222" %}
+{% include feature/image.html objectid=20231103_122222 %}
+{% include feature/image.html objectid=20231103_122222.jpg %}
+{% include feature/image.html objectid=coll0012 %}
+{% include feature/image.html objectid="coll0012" %}
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
