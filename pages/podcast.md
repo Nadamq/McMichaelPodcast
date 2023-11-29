@@ -65,7 +65,7 @@ credits: false #true
 {% include feature/audio.html objectid=coll001 %}
 
 ## Totem Pole Featured in Podcast
-{% include feature/image.html objectid="https://nadamq.github.io/painting-progress/objects/20231103_122222.jpg" width="75" alt="Totem Pole" %}
+{% include feature/image.html objectid="https://nadamq.github.io/painting-progress/objects/20231103_122222.jpg" width="75" height = "25" %}
 
 
 ## About our podcast
