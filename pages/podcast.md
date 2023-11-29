@@ -61,7 +61,7 @@ credits: false #true
 ### Gallery Entrance
 {% include feature/image.html objectid="20231103_121453" width="25" height ="25"%}
 ### Entrance Interior
-{% include feature/image.html objectid="IMG_9654.jpg" width="25" height ="25"%}
+{% include feature/image.html objectid="IMG_9654" width="25" height ="25"%}
 ### General Exhibit Overview
 
 
