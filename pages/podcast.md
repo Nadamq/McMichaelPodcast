@@ -58,7 +58,7 @@ credits: false #true
 # Podcast #1: McMichael Canadian Art Collection
 {% include feature/audio.html objectid=coll001 %}
 
-## Tortem Pole Featured in Podcast
+## Totem Pole Featured in Podcast
 {% include feature/image.html objectid="20231103_122222.jpg" %}
 {% include feature/image.html objectid="20231103_122222" %}
 {% include feature/image.html objectid=20231103_122222 %}
