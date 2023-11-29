@@ -50,6 +50,7 @@ credits: false #true
 #{% include feature/image.html objectid=coll027 %}
 #{% include feature/image.html objectid=coll028 %}
 #{% include feature/image.html objectid="coll003" header="This is a Card" text="The card features an image from the collection as a cap" %}
+##{% include feature/image.html objectid="20231103_121703;IMG_9658;IMG_9660;IMG_9661;IMG_9662;IMG_9613;IMG_9670;IMG_9667" %}
 ---
 {% include feature/jumbotron.html objectid=coll002 %}
 
@@ -62,7 +63,7 @@ credits: false #true
 ### Entrance Interior
 {% include feature/image.html objectid="IMG_9654.jpg" width="25" height ="25"%}
 ### General Exhibit Overview
-#{% include feature/image.html objectid="20231103_121703;IMG_9658;IMG_9660;IMG_9661;IMG_9662;IMG_9613;IMG_9670;IMG_9667" %}
+
 
 ## About our podcast
 **Painting Progress: The Growth and Development of the McMichael Canadian Art Collection**\
